@@ -3,6 +3,7 @@
 ;; Copyright (C) 2026 Greg Felice
 
 ;; Author: Greg Felice <gregfelice@gmail.com>
+;; Assisted-by: Claude:claude-opus-5
 ;; Maintainer: Greg Felice <gregfelice@gmail.com>
 ;; URL: https://github.com/gregfelice/nightpanel-theme
 ;; Version: 0.1.0
